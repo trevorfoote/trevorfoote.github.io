@@ -1,2 +1,0 @@
-Trevor Foote
-Hello! World
